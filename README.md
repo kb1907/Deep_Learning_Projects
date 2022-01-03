@@ -16,13 +16,15 @@
 
 2. [LSTM - Advance Monthly Sales Forecasting](https://nbviewer.org/github/kb1907/Deep_Learning_Projects/blob/main/LSTM_Advance_Monthly_Sales_Prediction/LSTM%20-%20Advance%20Monthly%20Sales%20Prediction.ipynb)
 
-3. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
+3. [LSTM Models Stock Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/LSTM_Stock_Prediction/stock-prediction-different-lstm-models.ipynb)
+
+
+4. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
 
 <img src="https://www.researchgate.net/profile/Lei-Tai/publication/311805526/figure/fig3/AS:667790805565446@1536225143793/Recurrent-Neural-Network-Structure-The-left-is-the-typical-RNN-structure-The-right-part.png" width="400" height="400">
 
-4. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
+5. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
 
-5. [LSTM Models Stock Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/LSTM_Stock_Prediction/stock-prediction-different-lstm-models.ipynb)
 
 6. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
 
