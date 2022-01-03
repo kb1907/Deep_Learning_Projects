@@ -20,6 +20,7 @@
 
 <img src="https://www.researchgate.net/profile/Lei-Tai/publication/311805526/figure/fig3/AS:667790805565446@1536225143793/Recurrent-Neural-Network-Structure-The-left-is-the-typical-RNN-structure-The-right-part.png" width="400" height="400">
 
+4. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
 
-4. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
+5. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
 
