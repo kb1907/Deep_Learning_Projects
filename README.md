@@ -1,4 +1,4 @@
-## ** Deep Learning Projects**
+## **Deep Learning Projects**
 
 <img src="https://miro.medium.com/max/1000/1*yrgbW7GvOcp94f-5HZcmyQ.jpeg" width="500" height="500">
 
