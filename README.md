@@ -16,5 +16,10 @@
 
 2. [LSTM - Advance Monthly Sales Forecasting](https://nbviewer.org/github/kb1907/Deep_Learning_Projects/blob/main/LSTM_Advance_Monthly_Sales_Prediction/LSTM%20-%20Advance%20Monthly%20Sales%20Prediction.ipynb)
 
-3. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
+3. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
+
+<img src="https://miro.medium.com/max/1400/0*c1L9jjcsASagk_Hu.pngg" width="400" height="400">
+
+
+4. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
 
