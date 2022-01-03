@@ -18,6 +18,8 @@
 
 3. [LSTM Models Stock Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/LSTM_Stock_Prediction/stock-prediction-different-lstm-models.ipynb)
 
+<img src="https://miro.medium.com/max/674/1*jikKbzFXCq-IYnFZankIMg.png">
+
 
 4. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
 
