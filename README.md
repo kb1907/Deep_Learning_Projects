@@ -10,6 +10,5 @@
 
 ### Deep Learning Projects
 
-1. [BERT for Text Classification](https://github.com/kb1907/NLP_Projects/blob/main/BERT/BERT_for_Text_Classification_with_TensorFlow.ipynb)
+1. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
 
-![](https://miro.medium.com/max/1248/1*S5CdrFyfZvTIfNfS3oqo1A.png)
