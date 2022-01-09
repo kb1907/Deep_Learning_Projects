@@ -28,5 +28,8 @@
 5. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
 
 
-6. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
+6. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb8)
+
+7. [Image Classification With Transfer Learning- MobileNetV2](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Image%20Classification%20With%20Transfer%20Learning-%20MobileNetV2/Classification_with_Transfer_Learning_MobileNetV2.ipynb)
+
 
