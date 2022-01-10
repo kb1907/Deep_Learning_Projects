@@ -22,6 +22,10 @@
 
 4. [Image Classification With Transfer Learning- MobileNetV2](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Image%20Classification%20With%20Transfer%20Learning-%20MobileNetV2/Classification_with_Transfer_Learning_MobileNetV2.ipynb)
 
+<img src="https://www.researchgate.net/publication/342400905/figure/fig4/AS:905786289057792@1592967688003/The-architecture-of-our-transfer-learning-model.jpg" width="500" height="500">
+
+
+
 5. [LSTM Models Stock Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/LSTM_Stock_Prediction/stock-prediction-different-lstm-models.ipynb)
 
 <img src="https://miro.medium.com/max/674/1*jikKbzFXCq-IYnFZankIMg.png">
