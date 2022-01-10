@@ -14,24 +14,30 @@
 
 <img src="https://raw.githubusercontent.com/xuhaiming1996/Densely-Connected-Bidirectional-LSTM/master/docs/model_graph_1.png">
 
-2. [LSTM - Advance Monthly Sales Forecasting](https://nbviewer.org/github/kb1907/Deep_Learning_Projects/blob/main/LSTM_Advance_Monthly_Sales_Prediction/LSTM%20-%20Advance%20Monthly%20Sales%20Prediction.ipynb)
+2. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
 
-3. [LSTM Models Stock Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/LSTM_Stock_Prediction/stock-prediction-different-lstm-models.ipynb)
+![](https://neurohive.io/wp-content/uploads/2019/01/resnet-e1548261477164.png)
+
+
+3. [LSTM - Advance Monthly Sales Forecasting](https://nbviewer.org/github/kb1907/Deep_Learning_Projects/blob/main/LSTM_Advance_Monthly_Sales_Prediction/LSTM%20-%20Advance%20Monthly%20Sales%20Prediction.ipynb)
+
+4. [Image Classification With Transfer Learning- MobileNetV2](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Image%20Classification%20With%20Transfer%20Learning-%20MobileNetV2/Classification_with_Transfer_Learning_MobileNetV2.ipynb)
+
+5. [LSTM Models Stock Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/LSTM_Stock_Prediction/stock-prediction-different-lstm-models.ipynb)
 
 <img src="https://miro.medium.com/max/674/1*jikKbzFXCq-IYnFZankIMg.png">
 
 
-4. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
+6. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
 
 <img src="https://www.researchgate.net/profile/Lei-Tai/publication/311805526/figure/fig3/AS:667790805565446@1536225143793/Recurrent-Neural-Network-Structure-The-left-is-the-typical-RNN-structure-The-right-part.png" width="400" height="400">
 
-5. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
+7. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
 
 
-6. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb8)
+8. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb8)
 
-7. [Image Classification With Transfer Learning- MobileNetV2](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Image%20Classification%20With%20Transfer%20Learning-%20MobileNetV2/Classification_with_Transfer_Learning_MobileNetV2.ipynb)
-8. [Traffic Sign Classification](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Traffic_Sign_Classification/Traffic_Sign_Classification.ipynb)
-9. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
+
+9. [Traffic Sign Classification](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Traffic_Sign_Classification/Traffic_Sign_Classification.ipynb)
 
 
