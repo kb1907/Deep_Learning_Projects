@@ -32,5 +32,6 @@
 
 7. [Image Classification With Transfer Learning- MobileNetV2](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Image%20Classification%20With%20Transfer%20Learning-%20MobileNetV2/Classification_with_Transfer_Learning_MobileNetV2.ipynb)
 8. [Traffic Sign Classification](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Traffic_Sign_Classification/Traffic_Sign_Classification.ipynb)
+9. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
 
 
