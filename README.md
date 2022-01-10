@@ -16,8 +16,7 @@
 
 2. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
 
-![](https://neurohive.io/wp-content/uploads/2019/01/resnet-e1548261477164.png)
-
+<img src="https://neurohive.io/wp-content/uploads/2019/01/resnet-e1548261477164.png" width="500" height="500">
 
 3. [LSTM - Advance Monthly Sales Forecasting](https://nbviewer.org/github/kb1907/Deep_Learning_Projects/blob/main/LSTM_Advance_Monthly_Sales_Prediction/LSTM%20-%20Advance%20Monthly%20Sales%20Prediction.ipynb)
 
