@@ -50,6 +50,8 @@
 
 9. [Traffic Sign Classification](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Traffic_Sign_Classification/Traffic_Sign_Classification.ipynb)
 
+<img src="https://user-images.githubusercontent.com/51021282/148951975-6aedbc1e-821a-42cb-b439-70119c4abe71.png" width="600" height="450">
+
 10. [AUTOENCODERS - Image Denoising](https://github.com/kb1907/Deep_Learning_Projects/blob/main/AutoEncoders-Image_Denoising/Image_Denoising_using_AutoEncoders.ipynb)
 
 <img src="https://processminer.com/wp-content/uploads/processminer-insights-autoencoder-in-keras-1.jpg" width="600" height="400">
