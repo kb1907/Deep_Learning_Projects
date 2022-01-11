@@ -36,7 +36,7 @@
 
 6. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
 
-<img src="https://user-images.githubusercontent.com/51021282/148950350-9d52face-f609-4391-8b02-f9edb0fe15e3.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/51021282/148950350-9d52face-f609-4391-8b02-f9edb0fe15e3.png" width="600" height="400">
 
 
 7. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
