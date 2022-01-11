@@ -57,7 +57,9 @@
 
 <img src="https://processminer.com/wp-content/uploads/processminer-insights-autoencoder-in-keras-1.jpg" width="600" height="400">
 
+### 11. [A Gentle Intro to Image Data Augmentation](https://github.com/kb1907/Deep_Learning_Projects/blob/main/A_Gentle_Intro_to_Image_Data_Augmentation/A_Gentle_Intro_to_Image_Data_Augmentation.ipynb)
 
+<img src="https://user-images.githubusercontent.com/51021282/149014385-42a6abdf-2ef7-4173-b35e-d46b7b96ed87.png" width="600" height="400">
 
 
 
