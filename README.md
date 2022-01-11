@@ -41,6 +41,7 @@
 
 7. [RNN Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
 
+<img src="https://user-images.githubusercontent.com/51021282/148950803-8d04e671-e753-40e5-b0d6-eef554c16fe5.png" width="800" height="450">
 
 8. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
 
