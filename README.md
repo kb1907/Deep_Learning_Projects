@@ -83,6 +83,9 @@
 
 ### 16. [Face Recognition](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Face_Recognition.ipynb)
 
+![Screen Shot 2022-01-27 at 10 34 45 AM](https://user-images.githubusercontent.com/51021282/151321715-375ef46a-8e03-4a36-947a-d347a5971800.png)
+
+
 ### 17. [Art Generation with Neural Style Transfer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Art_Generation_with_Neural_Style_Transfer.ipynb)
 
 
