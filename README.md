@@ -66,5 +66,16 @@
 
 <img src="https://user-images.githubusercontent.com/51021282/149014385-42a6abdf-2ef7-4173-b35e-d46b7b96ed87.png" width="600" height="400">
 
+### 13.[Transfer Learning with MobileNet](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week2/Programming%20Assignment_Transfer_learning_with_MobileNet_v1.ipynb)
+
+### 14. [Car detection with YOLO](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Autonomous_driving_application_Car_detection.ipynb)
+
+### 15. [Image Segmentation with U-Net](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Image_segmentation_Unet_v2.ipynb)
+
+### 16. [Face Recognition](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Face_Recognition.ipynb)
+
+### 17. [Art Generation with Neural Style Transfer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Art_Generation_with_Neural_Style_Transfer.ipynb)
+
+
 
 
