@@ -78,6 +78,9 @@
 
 ### 15. [Image Segmentation with U-Net](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Image_segmentation_Unet_v2.ipynb)
 
+![Screen Shot 2022-01-27 at 10 31 23 AM](https://user-images.githubusercontent.com/51021282/151321248-26cbc124-0085-4955-a148-2f59a5a22999.png)
+
+
 ### 16. [Face Recognition](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Face_Recognition.ipynb)
 
 ### 17. [Art Generation with Neural Style Transfer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Art_Generation_with_Neural_Style_Transfer.ipynb)
