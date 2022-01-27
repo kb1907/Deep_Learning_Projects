@@ -68,6 +68,9 @@
 
 ### 13.[Transfer Learning with MobileNet](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week2/Programming%20Assignment_Transfer_learning_with_MobileNet_v1.ipynb)
 
+![Screen Shot 2022-01-27 at 10 27 58 AM](https://user-images.githubusercontent.com/51021282/151320787-16a524d3-058e-4ad0-bd60-e5a8c5574294.png)
+
+
 ### 14. [Car detection with YOLO](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Autonomous_driving_application_Car_detection.ipynb)
 
 ### 15. [Image Segmentation with U-Net](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Image_segmentation_Unet_v2.ipynb)
