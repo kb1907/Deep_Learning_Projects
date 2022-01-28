@@ -64,7 +64,11 @@
 
 ### 12. [A Gentle Intro to Image Data Augmentation](https://github.com/kb1907/Deep_Learning_Projects/blob/main/A_Gentle_Intro_to_Image_Data_Augmentation/A_Gentle_Intro_to_Image_Data_Augmentation.ipynb)
 
-<img src="https://user-images.githubusercontent.com/51021282/149014385-42a6abdf-2ef7-4173-b35e-d46b7b96ed87.png" width="600" height="400">
+<img src="https://user-images.githubusercontent.com/51021282/149014385-42a6abdf-2ef7-4173-b35e-d46b7b96ed87.png" width="400" height="300">
+
+---------------------------------------
+## Projects From [Deep Learning Specialization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
+------------------------------------------
 
 ### 13.[Transfer Learning with MobileNet](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week2/Programming%20Assignment_Transfer_learning_with_MobileNet_v1.ipynb)
 
