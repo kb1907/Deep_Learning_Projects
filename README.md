@@ -14,7 +14,7 @@
 
 ### 1. [Demand Prediction Model by Using Bidirectional LSTM Model](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Demand_Prediction_Model_by_Using_Bidirectional_LSTM_Model/Demand%20Prediction%20Model%20by%20Using%20Bidirectional%20LSTM%20Model.ipynb)
 
-<img src="https://raw.githubusercontent.com/xuhaiming1996/Densely-Connected-Bidirectional-LSTM/master/docs/model_graph_1.png" width="400" height="300">
+<img src="https://raw.githubusercontent.com/xuhaiming1996/Densely-Connected-Bidirectional-LSTM/master/docs/model_graph_1.png" width="500" height="300">
 
 ### 2. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
 
@@ -60,7 +60,7 @@
 
 ### 11. [AUTOENCODERS - Image Denoising](https://github.com/kb1907/Deep_Learning_Projects/blob/main/AutoEncoders-Image_Denoising/Image_Denoising_using_AutoEncoders.ipynb)
 
-<img src="https://processminer.com/wp-content/uploads/processminer-insights-autoencoder-in-keras-1.jpg" width="600" height="400">
+<img src="https://processminer.com/wp-content/uploads/processminer-insights-autoencoder-in-keras-1.jpg" width="400" height="300">
 
 ### 12. [A Gentle Intro to Image Data Augmentation](https://github.com/kb1907/Deep_Learning_Projects/blob/main/A_Gentle_Intro_to_Image_Data_Augmentation/A_Gentle_Intro_to_Image_Data_Augmentation.ipynb)
 
@@ -72,27 +72,23 @@
 
 ### 13.[Transfer Learning with MobileNet](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week2/Programming%20Assignment_Transfer_learning_with_MobileNet_v1.ipynb)
 
-![Screen Shot 2022-01-27 at 10 27 58 AM](https://user-images.githubusercontent.com/51021282/151320787-16a524d3-058e-4ad0-bd60-e5a8c5574294.png)
-
+<img src="https://user-images.githubusercontent.com/51021282/151320787-16a524d3-058e-4ad0-bd60-e5a8c5574294.png" width="400" height="300">
 
 ### 14. [Car detection with YOLO](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Autonomous_driving_application_Car_detection.ipynb)
 
-![Screen Shot 2022-01-27 at 10 30 01 AM](https://user-images.githubusercontent.com/51021282/151321070-ccd129eb-35d4-44c2-ad29-ea00b6f8d736.png)
-
+<img src="https://user-images.githubusercontent.com/51021282/151321070-ccd129eb-35d4-44c2-ad29-ea00b6f8d736.png" width="400" height="300">
 
 ### 15. [Image Segmentation with U-Net](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Image_segmentation_Unet_v2.ipynb)
 
-![Screen Shot 2022-01-27 at 10 31 23 AM](https://user-images.githubusercontent.com/51021282/151321248-26cbc124-0085-4955-a148-2f59a5a22999.png)
-
+<img src="https://user-images.githubusercontent.com/51021282/151321248-26cbc124-0085-4955-a148-2f59a5a22999.png" width="400" height="300">
 
 ### 16. [Face Recognition](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Face_Recognition.ipynb)
 
-![Screen Shot 2022-01-27 at 10 34 45 AM](https://user-images.githubusercontent.com/51021282/151321715-375ef46a-8e03-4a36-947a-d347a5971800.png)
-
+<img src="https://user-images.githubusercontent.com/51021282/151321715-375ef46a-8e03-4a36-947a-d347a5971800.png" width="400" height="300">
 
 ### 17. [Art Generation with Neural Style Transfer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Art_Generation_with_Neural_Style_Transfer.ipynb)
-![Screen Shot 2022-01-27 at 10 36 52 AM](https://user-images.githubusercontent.com/51021282/151322099-640da985-128b-4d81-92cb-143b2286244b.png)
+<img src="https://user-images.githubusercontent.com/51021282/151322099-640da985-128b-4d81-92cb-143b2286244b.png" width="400" height="300">
 
-
-
+--------------------
+All the best 🤘 
 
