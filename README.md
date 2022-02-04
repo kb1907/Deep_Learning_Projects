@@ -29,7 +29,7 @@
 
 ### 3. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
 
-- In  this project, by using CNN with 2295 X-Ray images to classify Covid19 cases.
+- In  this project, I used CNN with 2295 X-Ray images to classify Covid19 cases.
 <img src="https://user-images.githubusercontent.com/51021282/148951174-652a4d42-fdbe-40ac-a6b4-fad6ef19dcd3.png" width="400" height="300">
 
 
