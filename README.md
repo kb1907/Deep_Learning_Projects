@@ -35,6 +35,8 @@
 
 ### 4. [Image Super Resolution using AUTOENCODERS](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Image_Super_Resolution_Using_AUTOENCODERs/Image_Super_Resolution_using_Autoencoders.ipynb)
 
+- In this project, I used Autoencoders for image super resolution.
+
 <img src="https://user-images.githubusercontent.com/51021282/149212557-08a5395b-871c-4a4d-abf3-381ec18417eb.png" width="1100" height="300">
 
 
