@@ -23,7 +23,6 @@
 
 - In this project, I used ResNet-Residual Network to classify 3553 color images belonging to 5 different categories (No_DR, Mild, Moderate, Severe, Proliferative).
 
-
 <img src="https://neurohive.io/wp-content/uploads/2019/01/resnet-e1548261477164.png" width="400" height="300">
 
 
