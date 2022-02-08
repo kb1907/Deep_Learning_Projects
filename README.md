@@ -56,6 +56,7 @@
 
 - In this project, I used different LSTM models (Bidirectional LSTM - CNN LSTM) to predict stock price.
 
+
 <img src="https://miro.medium.com/max/674/1*jikKbzFXCq-IYnFZankIMg.png" width="400" height="300">
 
 
