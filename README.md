@@ -64,7 +64,6 @@
 
 - In this project, I used RNN model to predict Bikeshare demand based on the daily 2 year data.
 
-
 <img src="https://user-images.githubusercontent.com/51021282/148950350-9d52face-f609-4391-8b02-f9edb0fe15e3.png" width="400" height="300">
 
 
