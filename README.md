@@ -70,7 +70,7 @@
 ### 9. [LSTM Forecasting - Frozen Dessert Product](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Forecasting_Frozen_Dessert_Product/RNN_Forecasting_Frozen_Dessert_Product.ipynb)
 
 - In this project, I used LSTM to predict frozen desert production by using previous monthly frozen desert production data from 1972-2019.
-- I made prediction for next 24 months.
+- I made frozen desert production prediction for next 24 months.
 
 
 <img src="https://user-images.githubusercontent.com/51021282/148950803-8d04e671-e753-40e5-b0d6-eef554c16fe5.png" width="400" height="300">
