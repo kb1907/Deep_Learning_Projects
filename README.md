@@ -77,6 +77,9 @@
 
 ### 10. [Traffic Sign Classification](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Traffic_Sign_Classification/Traffic_Sign_Classification.ipynb)
 
+- In this project, I want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs).
+- The dataset consists of 43 different classes of images.
+
 <img src="https://user-images.githubusercontent.com/51021282/148951975-6aedbc1e-821a-42cb-b439-70119c4abe71.png" width="400" height="300">
 
 ### 11. [AUTOENCODERS - Image Denoising](https://github.com/kb1907/Deep_Learning_Projects/blob/main/AutoEncoders-Image_Denoising/Image_Denoising_using_AutoEncoders.ipynb)
