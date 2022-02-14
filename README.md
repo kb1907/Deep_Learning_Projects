@@ -45,7 +45,6 @@
 
 <img src="https://user-images.githubusercontent.com/51021282/148949436-1f81e360-9288-47fa-9334-c6688a8a55ca.png" width="400" height="300">
 
-
 ### 6. [Image Classification With Transfer Learning- MobileNetV2](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Image%20Classification%20With%20Transfer%20Learning-%20MobileNetV2/Classification_with_Transfer_Learning_MobileNetV2.ipynb)
 
 - In this project, I used Transfer Learning methopd with MobileNetV2.
