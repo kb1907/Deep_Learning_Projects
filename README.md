@@ -84,6 +84,8 @@
 
 ### 11. [AUTOENCODERS - Image Denoising](https://github.com/kb1907/Deep_Learning_Projects/blob/main/AutoEncoders-Image_Denoising/Image_Denoising_using_AutoEncoders.ipynb)
 
+- In this project I used Auto-Encoders to perform denoising.
+
 <img src="https://processminer.com/wp-content/uploads/processminer-insights-autoencoder-in-keras-1.jpg" width="400" height="300">
 
 ### 12. [A Gentle Intro to Image Data Augmentation](https://github.com/kb1907/Deep_Learning_Projects/blob/main/A_Gentle_Intro_to_Image_Data_Augmentation/A_Gentle_Intro_to_Image_Data_Augmentation.ipynb)
