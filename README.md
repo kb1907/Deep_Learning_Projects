@@ -89,6 +89,8 @@
 
 ### 12. [A Gentle Intro to Image Data Augmentation](https://github.com/kb1907/Deep_Learning_Projects/blob/main/A_Gentle_Intro_to_Image_Data_Augmentation/A_Gentle_Intro_to_Image_Data_Augmentation.ipynb)
 
+- In this project, i used different data augmentation techniques. 
+
 <img src="https://user-images.githubusercontent.com/51021282/149014385-42a6abdf-2ef7-4173-b35e-d46b7b96ed87.png" width="400" height="300">
 
 ---------------------------------------
