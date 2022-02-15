@@ -91,6 +91,7 @@
 
 - In this project, i used different data augmentation techniques. 
 
+
 <img src="https://user-images.githubusercontent.com/51021282/149014385-42a6abdf-2ef7-4173-b35e-d46b7b96ed87.png" width="400" height="300">
 
 ---------------------------------------
