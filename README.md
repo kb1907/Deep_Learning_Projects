@@ -101,6 +101,8 @@
 ### 13.[Transfer Learning with MobileNet](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week2/Programming%20Assignment_Transfer_learning_with_MobileNet_v1.ipynb)
 
 - In this project I used transfer learning on a pre-trained CNN to build an Alpaca/Not Alpaca classifier. 
+- I used MobileNetV2, which was designed to provide fast and computationally efficient performance. It's been pre-trained on ImageNet, a dataset containing over 14 million images and 1000 classes.
+
 <img src="https://user-images.githubusercontent.com/51021282/151320787-16a524d3-058e-4ad0-bd60-e5a8c5574294.png" width="400" height="300">
 
 ### 14. [Car detection with YOLO](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Autonomous_driving_application_Car_detection.ipynb)
