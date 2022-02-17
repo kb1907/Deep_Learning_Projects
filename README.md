@@ -108,6 +108,7 @@
 ### 14. [Car detection with YOLO](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week3/Programming%20Assignment_Autonomous_driving_application_Car_detection.ipynb)
 
 - "You Only Look Once" (YOLO) is a popular algorithm because it achieves high accuracy while also being able to run in real time. This algorithm "only looks once" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it then outputs recognized objects together with the bounding boxes.
+
 - In this project I discovered how YOLO ("You Only Look Once") performs object detection, and then applied it to car detection. 
 
 <img src="https://user-images.githubusercontent.com/51021282/151321070-ccd129eb-35d4-44c2-ad29-ea00b6f8d736.png" width="400" height="300">
