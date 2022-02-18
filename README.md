@@ -117,7 +117,7 @@
 
 - In this project; I built my own U-Net and also implemented semantic image segmentation on the CARLA self-driving car dataset
 - Also I applied sparse categorical crossentropy for pixelwise prediction.
-- 
+
 <img src="https://user-images.githubusercontent.com/51021282/151321248-26cbc124-0085-4955-a148-2f59a5a22999.png" width="400" height="300">
 
 ### 16. [Face Recognition](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Face_Recognition.ipynb)
