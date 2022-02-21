@@ -122,6 +122,13 @@
 
 ### 16. [Face Recognition](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Face_Recognition.ipynb)
 
+- In this project  I implemented one-shot learning to solve a face recognition problem
+- I applied the triplet loss function to learn a network's parameters in the context of face recognition
+- I explained how to pose face recognition as a binary classification problem
+- I mapped face images into 128-dimensional encodings using a pretrained model and performed face verification and face recognition with these encodings.
+
+
+
 <img src="https://user-images.githubusercontent.com/51021282/151321715-375ef46a-8e03-4a36-947a-d347a5971800.png" width="500" height="300">
 
 ### 17. [Art Generation with Neural Style Transfer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Art_Generation_with_Neural_Style_Transfer.ipynb)
