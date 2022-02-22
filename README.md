@@ -132,6 +132,11 @@
 
 ### 17. [Art Generation with Neural Style Transfer](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/Convolutional%20Neural%20Networks/Week4/Programming%20Assignment_Art_Generation_with_Neural_Style_Transfer.ipynb)
 
+- In this project I implemented the neural style transfer algorithm and generated novel artistic images using my algorithm.
+- I defined the style cost function for Neural Style Transfer and also I defined the content cost function for Neural Style Transfer.
+
+
+
 <img src="https://user-images.githubusercontent.com/51021282/151322099-640da985-128b-4d81-92cb-143b2286244b.png" width="500" height="300">
 
 --------------------
