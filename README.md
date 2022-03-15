@@ -25,7 +25,6 @@
 <img src="https://datapeaker.com/wp-content/uploads/2021/08/63071n1-8299125.png" width="400" height="300">
 
 
-
 ### 3. [Covid19 X-Ray Images](https://github.com/kb1907/Deep_Learning_Projects/blob/main/COVID_X_Ray_Images/Covid19_detection_using_X_ray_images.ipynb)
 
 - In  this project, I used CNN with 2295 X-Ray images to classify Covid19 cases.
