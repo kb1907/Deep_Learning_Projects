@@ -38,7 +38,6 @@
 
 <img src="https://user-images.githubusercontent.com/51021282/149212557-08a5395b-871c-4a4d-abf3-381ec18417eb.png" width="1100" height="300">
 
-
 ### 5. [LSTM - Advance Monthly Sales Forecasting](https://nbviewer.org/github/kb1907/Deep_Learning_Projects/blob/main/LSTM_Advance_Monthly_Sales_Prediction/LSTM%20-%20Advance%20Monthly%20Sales%20Prediction.ipynb)
 
 - In this project, I used 17 years of montly sales data to make sales prediction by using LSTM model with Time Series Generator.
