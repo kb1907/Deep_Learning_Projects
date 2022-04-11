@@ -18,6 +18,7 @@
 <img src="https://raw.githubusercontent.com/xuhaiming1996/Densely-Connected-Bidirectional-LSTM/master/docs/model_graph_1.png" width="500" height="300">
 
 
+
 ### 2. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
 
 
