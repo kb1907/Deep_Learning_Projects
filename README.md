@@ -10,6 +10,7 @@
 
 ## Deep Learning Projects
 --------------------------------------------------
+
 ### 1. [Demand Prediction Model by Using Bidirectional LSTM Model](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Demand_Prediction_Model_by_Using_Bidirectional_LSTM_Model/Demand%20Prediction%20Model%20by%20Using%20Bidirectional%20LSTM%20Model.ipynb)
 
 - In this project, I predicted product demand by using bi-directional RNN model.
