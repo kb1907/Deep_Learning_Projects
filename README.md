@@ -10,10 +10,8 @@
 
 
 
-
 ## Deep Learning Projects
 --------------------------------------------------
-
 
 
 ### 1. [Demand Prediction Model by Using Bidirectional LSTM Model](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Demand_Prediction_Model_by_Using_Bidirectional_LSTM_Model/Demand%20Prediction%20Model%20by%20Using%20Bidirectional%20LSTM%20Model.ipynb)
@@ -24,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/xuhaiming1996/Densely-Connected-Bidirectional-LSTM/master/docs/model_graph_1.png" width="500" height="300">
 
 ### 2. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
+
 
 
 - In this project, I used ResNet-Residual Network to classify 3553 color images belonging to 5 different categories (No_DR, Mild, Moderate, Severe, Proliferative).
