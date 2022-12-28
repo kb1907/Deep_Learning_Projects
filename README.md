@@ -24,7 +24,6 @@
 ### 2. [Diabetic Retinopathy Detection & ResNets](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Diabetic%20Retinopathy%20Detection%20%26%20ResNets/Diabetic_Retinopathy_Detection_ResNets.ipynb)
 
 
-
 - In this project, I used ResNet-Residual Network to classify 3553 color images belonging to 5 different categories (No_DR, Mild, Moderate, Severe, Proliferative).
 
 <img src="https://datapeaker.com/wp-content/uploads/2021/08/63071n1-8299125.png" width="400" height="300">
