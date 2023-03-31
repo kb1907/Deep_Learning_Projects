@@ -6,6 +6,7 @@
 - In this folder, different scale Deep Learning projects can be found.
 - All the best 🤘 
 
+
 ## Deep Learning Projects
 --------------------------------------------------
 
