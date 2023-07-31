@@ -54,7 +54,6 @@
 
 <img src="https://miro.medium.com/max/674/1*jikKbzFXCq-IYnFZankIMg.png" width="400" height="300">
 
-
 ### 8. [RNN Demand Prediction](https://github.com/kb1907/Deep_Learning_Projects/blob/main/RNN_Demand_Prediction/RNN_Demand_Prediction.ipynb) 
 
 - In this project, I used the RNN model to predict Bikeshare demand based on the daily 2-year data.
