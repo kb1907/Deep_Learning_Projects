@@ -6,12 +6,11 @@
 - All the best
 
 
-
 ## Deep Learning Projects
 --------------------------------------------------
 ### 1. [Demand Prediction Model by Using Bidirectional LSTM Model](https://github.com/kb1907/Deep_Learning_Projects/blob/main/Demand_Prediction_Model_by_Using_Bidirectional_LSTM_Model/Demand%20Prediction%20Model%20by%20Using%20Bidirectional%20LSTM%20Model.ipynb)
 
-- I predicted product demand using a bi-directional RNN model for this project.
+- I predicted product demand using a bidirectional RNN model for this project.
 - The Bi-Directional RNN model was skillful, achieving an overall 97% R2.
 
 <img src="https://raw.githubusercontent.com/xuhaiming1996/Densely-Connected-Bidirectional-LSTM/master/docs/model_graph_1.png" width="500" height="300">
