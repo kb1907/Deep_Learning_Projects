@@ -2,9 +2,8 @@
 ----------------------------------------------
 
 <img src="https://miro.medium.com/max/1000/1*yrgbW7GvOcp94f-5HZcmyQ.jpeg" width="500" height="500">
-- In this folder, different-scale Deep Learning projects can be found.
+- In this folder, various-scale deep learning projects can be found.
 - All the best
-
 
 ## Deep Learning Projects
 --------------------------------------------------
