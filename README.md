@@ -1,6 +1,5 @@
 # **Deep Learning Projects**
 ----------------------------------------------
-
 <img src="https://miro.medium.com/max/1000/1*yrgbW7GvOcp94f-5HZcmyQ.jpeg" width="500" height="500">
 - In this folder, various-scale deep learning projects are located.
 - All the best
